@@ -1,9 +1,3 @@
-GitHub **README.md** files use **Markdown**, which doesn’t support full HTML layouts. However, you can embed some **HTML** elements inside Markdown, such as `<details>`, `<summary>`, `<code>`, and `<img>`.  
-
-If you want to format instructions in a structured way, use a mix of **Markdown + HTML**. Here’s an improved **README.md** with code formatting, installation steps, and usage instructions:  
-
----
-
 # **Multithreading Debugging Library**  
 🚀 **Version 1.0.0** | 📅 **March 28, 2025**  
 
@@ -23,9 +17,13 @@ Click to expand installation steps
 
 🔹 Step 1: Download the JAR File
 Download the latest release from the GitHub Releases page.
+Use this Below Link
+**https://github.com/Tharindu714/Multithreading-Debugger-library/releases/tag/Multithreading-DebuggerV01**
 
 🔹 Step 2: Add JAR to Your Project
 Place the JAR file inside your project's lib/ folder.
+Use this Below Link
+**https://github.com/Tharindu714/Multithreading-Debugger-library/blob/5dd106b4a6046cce49c309e0b79d48474995ed1f/lib/MultithreadingDebugger.jar**
 
 🔹 Step 3: Configure Your Classpath
 Add the JAR file to your Java build path (in Eclipse, IntelliJ, or NetBeans).
@@ -71,17 +69,10 @@ public class TestRaceCondition {
 ---
 
 ## **📢 Contribute & Support**  
-- 📌 **GitHub Repository:** [your-github-link-here]  
-- 📌 **Documentation:** [your-docs-link-here]  
-- 🐛 Found a bug? Report it [here](your-issues-link).  
+- 📌 **GitHub Repository:** https://github.com/Tharindu714/Multithreading-Debugger-library.git
+- 📌 **Documentation:** https://github.com/Tharindu714/Multithreading-Debugger-library/blob/main/README.md 
+- 🐛 Found a bug? Report it : Open an issue on **GitHub**.
 
 🚀 **Happy Debugging!** 🔥  
 
 ---
-
-### 🔥 **This format ensures:**  
-✅ Interactive installation steps with collapsible `<details>`  
-✅ **HTML + Markdown hybrid formatting** for a clean look  
-✅ Easy-to-follow **code snippets**  
-
-Let me know if you want more styling or changes! 🚀
